@@ -3,10 +3,10 @@ Caster for RVMP (RTCM Via MQTT Protocol) using the MQTT msg/protocol (as a secur
 
 Check:
 # RVMP
-https://github.com/hagre/RVMP-RTCM-Via-MQTT-Protocol
+https://github.com/hagre/RVMP_RTCM-VIA-MQTT-PROTOCOL
 
 # RVMT
-https://github.com/hagre/RVMT-RTCM-VIA-MQTT-TRANSMITTER
+https://github.com/hagre/RVMT_RTCM-VIA-MQTT-TRANSMITTER
 
 Running on a mosquitto MQTT broker (with TLS !).
 
